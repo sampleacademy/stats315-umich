@@ -1,5 +1,5 @@
 ---
-title: Home
+title: STATS 315
 layout: home
 ---
 
